@@ -1,0 +1,11 @@
+git init
+Repository
+Branches
+git push
+git pull
+Local Repo vs. Remote Repo
+ 
+Steps:
+1. Stage Files
+2. Commit Changes (Push 3la Local Repo)
+3. Push (Push to remote repo)
